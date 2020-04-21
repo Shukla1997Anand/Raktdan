@@ -1,0 +1,32 @@
+.header{ width: 100%;height: auto;background: red;color: white;  height: 80px; }
+.banner{ width: 100%;height: 400px; background: url('../img/banner.jpg'); background-size: 100%; }
+.container{ width: 100%;height: 300px;  }
+.footer{ width: 100%;height: auto;background: red;color: white;  }
+#a{ width: 25%;height: 50px;float: left; text-align: center; }
+#b{ width: 25%;height: 50px;float: left;  text-align: center; }
+#c{ width: 25%;height: 50px;float: left;  text-align: center; }
+#d{ width: 25%;height: 50px;float: left; text-align: center;  }
+a{ text-decoration: none; color: white  }
+ul li{
+	width:20%;
+	height:50px;
+	line-height:50px;
+	margin-left:35px;
+	background:red;
+	color:white;
+	float:left;
+	text-align:center;
+	list-style:none;
+}
+ul li a
+{
+	text-decoration:none;
+	color:white;
+}
+#form{
+	width:80%;
+	height:200px;
+	background-color:red;">;
+	color:white;
+	border-radius:10px;
+}
